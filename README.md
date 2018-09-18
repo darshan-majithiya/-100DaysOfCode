@@ -4,4 +4,10 @@ Log for my #100DaysOfCode Challenge. The main aim of taking up this challenge is
 ## Day 1
 Learned the basics of functions, sets, tuples, lists, & Dictionary objects from the course Python 101 on udemy.
 
+## Day 2
+Learned the generator & lambda functions and the basics of OOPs concepts.
+
+## Day 3
+Learned the basics of File Handling, Modules, & Exception Handling.
+
 
